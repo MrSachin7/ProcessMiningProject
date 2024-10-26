@@ -1,0 +1,3283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7" xmlns="http://www.xes-standard.org/">
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="55.41874800000005" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="78.12905499999988" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="80.88834700000007" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Free Kick" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="151.12727799999993" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="151.56203199999982" />
+      <string id="SubEvent" value="Clearance" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="153.96021999999994" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Shot" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Save attempt" />
+      <string id="EventSec" value="156.5910530000001" />
+      <string id="SubEvent" value="Reflexes" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="226.64105500000005" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="229.358272" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="231.5314440000002" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Foul" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="294.74453200000016" />
+      <string id="SubEvent" value="Free Kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="297.1666369999998" />
+      <string id="SubEvent" value="Cross" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Others on the ball" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="306.9402220000002" />
+      <string id="SubEvent" value="Throw in" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="310.0863840000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="311.94971399999986" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="314.2347239999999" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="316.5420640000002" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="317.6767540000001" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="320.6192030000002" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="335.2637129999998" />
+      <string id="SubEvent" value="Throw in" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="337.65182000000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="341.1004630000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="346.20949599999994" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="348.45921899999985" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="350.1675500000001" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="352.2810370000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="355.6972850000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="358.90812000000005" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="359.2297749999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="362.39889600000015" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="369.0096990000002" />
+      <string id="SubEvent" value="Throw in" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="371.634176" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="373.0074800000002" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="376.5199389999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="380.7493949999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="382.20261100000016" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="420.0201240000001" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="421.0992120000001" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="422.3357259999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="424.4188939999999" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="428.0540740000001" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Foul" />
+    <string id="EndReason" value="Free Kick" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="480.600958" />
+      <string id="SubEvent" value="Free kick cross" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="482.2489329999999" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="485.301743" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="486.8676519999999" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Free Kick" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="536.2207659999999" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="539.8218059999999" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="541.4602359999999" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="578.2105160000001" />
+      <string id="SubEvent" value="Goal kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="581.5135180000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="584.6709679999999" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="589.2833340000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="593.816026" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="594.475207" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="597.481241" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="600.8731990000001" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="602.492381" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="607.5525990000001" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="608.396092" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="611.5031090000002" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="612.7738549999999" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="650.8227509999997" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="655.9590079999998" />
+      <string id="SubEvent" value="Hand pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="660.0946629999999" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="661.2818209999996" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="663.7896110000001" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="665.4372659999999" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="672.3811569999998" />
+      <string id="SubEvent" value="Launch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="674.9666939999997" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="679.9332450000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="682.1890400000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="685.2592249999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="687.6318490000003" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="690.8067810000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="694.837939" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="697.4483529999998" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="700.5497070000001" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="702.3499849999998" />
+      <string id="SubEvent" value="Smart pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="705.627015" />
+      <string id="SubEvent" value="Cross" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Others on the ball" />
+    <string id="EndReason" value="Shot" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Shot" />
+      <string id="EventSec" value="708.1619170000004" />
+      <string id="SubEvent" value="Shot" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="821.02567" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="831.8976430000002" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="834.2702730000001" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="840.2387390000004" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="841.6108649999996" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="845.3362630000001" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="847.4745629999998" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="865.4308330000003" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="892.4393190000001" />
+      <string id="SubEvent" value="Goal kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="921.7313640000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="924.6516519999996" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="927.2117559999996" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="930.3455050000002" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="932.4179560000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="936.6180839999996" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="938.779571" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="962.5170289999996" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="964.0504739999996" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1024.359294" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Foul" />
+    <string id="EndReason" value="Shot" />
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="1049.10577" />
+      <string id="SubEvent" value="Free Kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1053.77844" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1055.986914" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1059.374506" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1062.1630560000003" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1065.0000959999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1067.494307" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1070.7821700000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1072.8214180000004" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1078.386281" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1080.811984" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1084.518196" />
+      <string id="SubEvent" value="Cross" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Shot" />
+      <string id="EventSec" value="1085.7019790000004" />
+      <string id="SubEvent" value="Shot" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Others on the ball" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1087.0160260000002" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Shot" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Shot" />
+      <string id="EventSec" value="1088.4314080000004" />
+      <string id="SubEvent" value="Shot" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1197.5461509999996" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1198.7211319999997" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1199.5456299999996" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1201.3584410000003" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="1203.6312790000002" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Shot" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1259.420298" />
+      <string id="SubEvent" value="Clearance" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1284.631429" />
+      <string id="SubEvent" value="Clearance" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Shot" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="1349.5825189999996" />
+      <string id="SubEvent" value="Goal kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1355.3639510000005" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1357.956948" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1362.232707" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1363.3137479999996" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1366.1560360000003" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1367.5569269999996" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Shot" />
+      <string id="EventSec" value="1369.3453680000002" />
+      <string id="SubEvent" value="Shot" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Others on the ball" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1445.5550780000003" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1448.130298" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1450.7650430000003" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1463.9426970000004" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1474.1917679999997" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1476.662515" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1479.139325" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1481.364364" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1483.6211510000005" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Shot" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1485.4873289999996" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1486.900264" />
+      <string id="SubEvent" value="Acceleration" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1492.148147" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1493.8478590000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Shot" />
+      <string id="EventSec" value="1496.0539710000005" />
+      <string id="SubEvent" value="Shot" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1520.4563209999997" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1521.371779" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1522.98059" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1525.616817" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1527.06765" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1527.8102280000005" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1534.575387" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1538.5355179999997" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1540.4355880000005" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1545.153829" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1546.1264609999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1546.9049320000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1548.5685750000002" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1550.4991419999997" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1552.532037" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1559.6686280000004" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1561.1944270000004" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1561.942849" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1563.639008" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Foul" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="1584.126983" />
+      <string id="SubEvent" value="Out of game foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="1592.4893650000004" />
+      <string id="SubEvent" value="Free Kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1598.4173259999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1599.7884620000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Others on the ball" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1601.92746" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1606.4622060000002" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="1608.0678349999998" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1617.9045189999997" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="1619.5563679999996" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Free Kick" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1659.302925" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1659.6392429999996" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1660.7876349999997" />
+      <string id="SubEvent" value="Clearance" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1661.541061" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1663.4579270000004" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1665.3255259999996" />
+      <string id="SubEvent" value="Acceleration" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1671.4568069999996" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1672.94816" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1692.582931" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1696.2148029999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1699.9114689999997" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1701.87305" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1703.6374969999997" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1705.4912379999996" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1714.697795" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1719.872107" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1722.0138209999996" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1726.294492" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1728.2714100000003" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1730.6411559999997" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1732.2327729999995" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1735.590999" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Matuidi" />
+      <string id="Position" value="LM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1742.8267079999996" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1751.1339079999998" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1753.7055380000002" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1755.6710240000002" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1757.8746709999996" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1759.3433530000002" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Foul" />
+    <string id="EndReason" value="Free Kick" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="1804.1183410000003" />
+      <string id="SubEvent" value="Free Kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1807.5116930000004" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1809.9017160000003" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1817.398322" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1820.994365" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1869.903435" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1873.620838" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1874.517241" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1881.16224" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1884.8174630000003" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1889.5793940000003" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1892.295904" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1892.894181" />
+      <string id="SubEvent" value="Acceleration" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1896.931962" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1897.936474" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Foul" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="1933.725948" />
+      <string id="SubEvent" value="Free kick cross" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="1935.042582" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1940.4358380000003" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1942.912974" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1944.087546" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1946.038363" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1948.404097" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1950.336072" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="1954.40477" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="1987.195923" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Others on the ball" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="2011.8748" />
+      <string id="SubEvent" value="Goal kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2014.3838370000003" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2044.8326930000003" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2046.705921" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2048.296205" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2048.9612180000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2050.4469440000003" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2051.4679960000003" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2052.4183650000004" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2055.413061" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2056.7657010000003" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2075.855885" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2080.007554" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2083.847014" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2101.896212" />
+      <string id="SubEvent" value="Launch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2104.79467" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2109.1412760000003" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="2110.3798530000004" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2134.486792" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2136.153146" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2147.752695" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2151.962198" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2162.846662" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="2164.419921" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2182.790327" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2183.008398" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2185.481886" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2186.8968000000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2187.304106" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2191.754291" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2193.037257" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2194.0242070000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2196.097097" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2197.201863" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2198.876542" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2200.952668" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="A. Griezmann" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2201.721755" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2218.330427" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2220.351896" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Free Kick" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2232.9924600000004" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="2286.603706" />
+      <string id="SubEvent" value="Goal kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2292.0818230000004" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2294.107074" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2298.4809130000003" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2303.6359110000003" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2305.8235510000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2309.506111" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="2310.903749" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2329.909626" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2349.487948" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2352.279963" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2356.014075" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2356.749225" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Shot" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Save attempt" />
+      <string id="EventSec" value="2358.748329" />
+      <string id="SubEvent" value="Save attempt" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2376.517072" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="K. Mbapp\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2377.1262020000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2379.0575230000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2380.7243740000004" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2408.6407710000003" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2410.117533" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2410.9395160000004" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Shot" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="R. Varane" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2428.439323" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2439.616209" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="2441.188274" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Free Kick" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2486.775496" />
+      <string id="SubEvent" value="Clearance" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2494.7520400000003" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Free Kick" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="2533.071351" />
+      <string id="SubEvent" value="Goal kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2540.43566" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2545.195712" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2548.57187" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2553.383733" />
+      <string id="SubEvent" value="Launch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2556.293281" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2558.3320000000003" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="2559.6581" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Kant\u00e9" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2607.825209" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2609.1175110000004" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2612.04039" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="F. Thauvin" />
+      <string id="Position" value="RW" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2613.230156" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2614.737652" />
+      <string id="SubEvent" value="Launch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2619.0591080000004" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2621.093631" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="F. Thauvin" />
+      <string id="Position" value="RW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2622.866067" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2629.085652" />
+      <string id="SubEvent" value="High pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2640.562644" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2643.7570530000003" />
+      <string id="SubEvent" value="Clearance" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Free Kick" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2656.3838020000003" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Offside" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="2687.8623310000003" />
+      <string id="SubEvent" value="Free Kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2690.2789650000004" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="2691.889187" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Free Kick" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="B. Pavard" />
+      <string id="Position" value="RB" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2706.4180050000004" />
+      <string id="SubEvent" value="Clearance" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="L. Hern\u00e1ndez" />
+      <string id="Position" value="nan" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2725.204546" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2727.90593" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Foul" />
+    <string id="EndReason" value="Free Kick" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="2762.621193" />
+      <string id="SubEvent" value="Free Kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2764.1558130000003" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Pass" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2773.122597" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2775.3103410000003" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2776.642913" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2777.446266" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Others on the ball" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Others on the ball" />
+      <string id="EventSec" value="2786.910112" />
+      <string id="SubEvent" value="Touch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Foul" />
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2801.447983" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="2802.86407" />
+      <string id="SubEvent" value="Foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Shot" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Save attempt" />
+      <string id="EventSec" value="2823.980218" />
+      <string id="SubEvent" value="Reflexes" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2849.469062" />
+      <string id="SubEvent" value="Launch" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2851.970808" />
+      <string id="SubEvent" value="Ground loose ball duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Pass" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="C. Tolisso" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2853.673149" />
+      <string id="SubEvent" value="Head pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2855.064893" />
+      <string id="SubEvent" value="Air duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2856.346495" />
+      <string id="SubEvent" value="Ground defending duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Duel" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="N. Fekir" />
+      <string id="Position" value="AM" />
+      <string id="Action" value="Pass" />
+      <string id="EventSec" value="2857.594805" />
+      <string id="SubEvent" value="Simple pass" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="P. Pogba" />
+      <string id="Position" value="CM" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2858.862883" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Foul" />
+    <string id="EndReason" value="Duel" />
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Foul" />
+      <string id="EventSec" value="2872.828379" />
+      <string id="SubEvent" value="Out of game foul" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="S. Umtiti" />
+      <string id="Position" value="CB" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="2952.348097" />
+      <string id="SubEvent" value="Free Kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+    <event>
+      <string id="Player" value="O. Giroud" />
+      <string id="Position" value="FW" />
+      <string id="Action" value="Duel" />
+      <string id="EventSec" value="2957.347301" />
+      <string id="SubEvent" value="Ground attacking duel" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+  <trace>
+    <string id="StartReason" value="Shot" />
+    <string id="EndReason" value="Free Kick" />
+    <event>
+      <string id="Player" value="H. Lloris" />
+      <string id="Position" value="GKP" />
+      <string id="Action" value="Free Kick" />
+      <string id="EventSec" value="3004.5238630000003" />
+      <string id="SubEvent" value="Goal kick" />
+      <string id="MatchPeriod" value="2H" />
+    </event>
+  </trace>
+</log>
