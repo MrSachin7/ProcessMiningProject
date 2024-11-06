@@ -5,43 +5,48 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="9.620708000000036" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="16.022707999999966" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="22.92960400000004" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="24.76447900000005" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="26.45233399999995" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on left, Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -49,11 +54,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="28.872167999999988" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -61,35 +67,39 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="29.484417000000008" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="31.079418000000032" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="32.58110499999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="33.58412599999997" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -97,51 +107,57 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="36.41364699999997" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="38.92558499999996" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="41.75639699999999" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="46.89525100000003" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="48.590085000000045" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="55.91173100000003" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -149,51 +165,57 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="63.65549299999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="66.09343000000001" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="69.19447100000002" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="72.03355399999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="74.37925499999994" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="74.92887099999996" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -201,11 +223,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="78.75152000000003" />
       <string id="SubEvent" value="Launch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -213,27 +236,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="82.89230799999996" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="84.82534299999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="88.75400400000001" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -241,35 +267,39 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="90.94716100000004" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="91.93999399999996" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="93.73699399999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="94.28186800000005" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -277,19 +307,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="97.13952700000004" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on left, Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="145.03936899999997" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Fairplay, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -297,35 +329,39 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="169.91148099999998" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="170.23785199999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="171.56919900000003" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="173.81787199999997" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -333,11 +369,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="174.78069600000003" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -345,19 +382,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="190.11731899999995" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="191.12083600000005" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -365,11 +404,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="194.693481" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -377,11 +417,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="199.80149500000005" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Dangerous ball lost, Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -389,11 +430,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="207.813175" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -401,11 +443,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="212.444448" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Missed ball" />
     </event>
   </trace>
   <trace>
@@ -413,11 +456,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="215.533735" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -425,11 +469,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="218.17024300000003" />
       <string id="SubEvent" value="Clearance" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -437,11 +482,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="222.353379" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -449,19 +495,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="254.611309" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="256.15560000000005" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -469,11 +517,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="283.74683200000004" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -481,11 +530,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="294.365047" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space left, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -493,11 +543,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="302.66015500000003" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on right, Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -505,19 +556,21 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="327.38758800000005" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="328.38308099999995" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -525,11 +578,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="330.67643" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -537,11 +591,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="333.283008" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -549,11 +604,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="334.82360600000004" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -561,27 +617,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="339.236283" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="341.549387" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="342.46688099999994" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -589,19 +648,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="345.19733599999995" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="346.040989" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -609,19 +670,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="347.67256999999995" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="350.345794" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -629,11 +692,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="354.663181" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -641,35 +705,39 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="357.177407" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space left, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="358.26677700000005" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="360.77123200000005" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="363.398545" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Left foot, Accurate" />
     </event>
   </trace>
   <trace>
@@ -677,11 +745,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="364.8245490000001" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -689,51 +758,57 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="369.609653" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="373.456294" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="376.564647" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="378.253102" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="380.385496" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="382.040824" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -741,27 +816,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="383.051113" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="384.796363" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="386.87914" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -769,19 +847,21 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="389.814531" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="392.024758" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -789,11 +869,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="393.848962" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -801,11 +882,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="397.077271" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Accurate" />
     </event>
   </trace>
   <trace>
@@ -813,75 +895,84 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="402.94864" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="405.163765" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="408.080869" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="411.447057" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="416.100614" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="417.957842" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="420.451946" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="422.165172" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="425.01136" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -889,27 +980,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="426.013889" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Anticipation, Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="430.193096" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="431.558325" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -917,11 +1011,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="434.21989800000006" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -929,11 +1024,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="448.4810440000001" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -941,11 +1037,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="451.565476" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -953,19 +1050,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="453.9915800000001" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="455.4417880000001" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -973,19 +1072,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="492.8991820000001" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="493.6024910000001" />
       <string id="SubEvent" value="Launch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -993,11 +1094,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="501.0798219999999" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1005,11 +1107,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="525.6897630000001" />
       <string id="SubEvent" value="Free Kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -1017,11 +1120,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="528.8770010000001" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1029,67 +1133,75 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="538.76583" />
       <string id="SubEvent" value="Free Kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="540.5936200000001" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="541.7558280000001" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="542.939243" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="546.032696" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="547.0860700000001" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="548.6609960000001" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="550.324327" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -1097,11 +1209,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="552.751851" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1109,11 +1222,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="612.1749749999999" />
       <string id="SubEvent" value="Free kick cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="High, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1121,11 +1235,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="614.5358209999999" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1133,19 +1248,21 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="649.524709" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="650.5921020000001" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1153,19 +1270,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="658.9996819999999" />
       <string id="SubEvent" value="Free Kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="660.5788279999999" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -1173,11 +1292,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="662.7224060000001" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on right, Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1185,11 +1305,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="665.1493519999999" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on right, Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1197,51 +1318,57 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="679.915745" />
       <string id="SubEvent" value="Free Kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="684.529385" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="689.4825519999999" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="693.6558829999999" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="694.929985" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="696.798875" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, High, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1249,11 +1376,12 @@
     <string id="EndReason" value="Shot" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Shot" />
       <string id="EventSec" value="702.553244" />
       <string id="SubEvent" value="Shot" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, Blocked, Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1261,11 +1389,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="705.0385550000001" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Sliding tackle, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1273,19 +1402,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="709.1829290000001" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="710.16731" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -1293,11 +1424,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="752.5248919999999" />
       <string id="SubEvent" value="Clearance" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1305,11 +1437,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="770.0646810000001" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1317,19 +1450,21 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="804.830254" />
       <string id="SubEvent" value="Clearance" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="806.7074210000001" />
       <string id="SubEvent" value="Clearance" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1337,11 +1472,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="811.5638369999999" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1349,19 +1485,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="815.2166649999999" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="816.7890379999999" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -1369,11 +1507,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="853.3801430000001" />
       <string id="SubEvent" value="Clearance" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1381,27 +1520,30 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="860.340637" />
       <string id="SubEvent" value="Hand pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="865.631991" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="868.556791" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1409,59 +1551,66 @@
     <string id="EndReason" value="Shot" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="870.868958" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="874.3576869999999" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="878.616955" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="882.049178" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="886.5716070000001" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, High, Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="888.7849960000001" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Key pass, Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Shot" />
       <string id="EventSec" value="890.383366" />
       <string id="SubEvent" value="Shot" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Head/body, Opportunity, Position: Out high center, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1469,19 +1618,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="932.249725" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="934.408788" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1489,11 +1640,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="938.779953" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -1501,19 +1653,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="940.518824" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="942.010991" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -1521,11 +1675,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="970.186839" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1533,11 +1688,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="972.426637" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1545,11 +1701,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="976.072145" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception" />
     </event>
   </trace>
   <trace>
@@ -1557,27 +1714,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="977.219455" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="978.129054" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="980.333283" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1585,19 +1745,21 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1010.933653" />
       <string id="SubEvent" value="Goal kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1014.38111" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1605,19 +1767,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1022.437318" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1023.092897" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -1625,19 +1789,21 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1024.983064" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1036.582784" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1645,11 +1811,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1041.104215" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1657,91 +1824,102 @@
     <string id="EndReason" value="Shot" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1059.046051" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1063.714218" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1067.849815" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1069.562003" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1071.98317" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1077.498503" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1080.091939" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1082.267599" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1083.506766" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1085.741403" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Shot" />
       <string id="EventSec" value="1087.49398" />
       <string id="SubEvent" value="Shot" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, Position: Out high right, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1749,19 +1927,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1135.09981" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1136.278349" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1769,19 +1949,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1147.567724" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1149.672077" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1789,11 +1971,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1150.107491" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1801,11 +1984,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1151.023029" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1813,19 +1997,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1152.395296" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1153.656616" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1833,27 +2019,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1159.840706" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1161.68916" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1164.535529" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1861,99 +2050,111 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1168.7739" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Anticipated, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1170.382854" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1175.377" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1176.462146" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1178.346334" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1180.853625" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1185.119792" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1185.906165" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1187.391332" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1188.780708" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1189.713391" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1191.255558" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -1961,19 +2162,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1191.940952" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on right, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1193.121471" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -1981,11 +2184,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1199.064883" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -1993,19 +2197,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1222.637023" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1224.746503" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -2013,11 +2219,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1225.088059" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Counter attack, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2025,43 +2232,48 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1230.829455" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Counter attack, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1233.670564" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Counter attack, Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1236.48704" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Counter attack, Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1239.806534" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1242.794992" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -2069,27 +2281,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1245.874284" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1246.916451" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1247.173217" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2097,35 +2312,39 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1251.349446" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1254.816592" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1256.930986" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1259.08219" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, Blocked, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2133,19 +2352,21 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1311.150419" />
       <string id="SubEvent" value="Corner" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="High, Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1312.077225" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2153,11 +2374,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1315.181745" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2165,11 +2387,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1321.317287" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Through, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2177,51 +2400,57 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1354.931663" />
       <string id="SubEvent" value="Hand pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1356.740056" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1359.472973" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1360.258306" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1361.32149" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1365.342657" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2229,27 +2458,30 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1371.370552" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1419.340299" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1420.319021" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2257,43 +2489,48 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1435.442151" />
       <string id="SubEvent" value="Free Kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1437.165318" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1439.023568" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1444.346735" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1450.884124" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2301,11 +2538,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1452.551473" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -2313,11 +2551,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1454.890828" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2325,43 +2564,48 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1476.4581669999998" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1479.978313" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1483.065501" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1485.725751" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1488.1592850000002" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2369,67 +2613,75 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1494.870472" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1497.1186389999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1503.2418469999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1509.386035" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1512.647556" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1513.521886" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1517.9470740000002" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="1521.3130700000002" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -2437,11 +2689,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1525.976881" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2449,11 +2702,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1528.927878" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -2461,59 +2715,66 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1535.409254" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1536.401483" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="1537.2279319999998" />
       <string id="SubEvent" value="Acceleration" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1540.75612" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1542.6562869999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1546.338807" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1549.6867579999998" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2521,11 +2782,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1551.151946" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2533,27 +2795,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1572.8666050000002" />
       <string id="SubEvent" value="Corner" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1574.042957" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1575.7841239999998" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Left foot, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2561,35 +2826,39 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1583.88054" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1587.6377900000002" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1588.9881" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1590.265996" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, High, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2597,19 +2866,21 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1593.198824" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1595.0832409999998" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2617,11 +2888,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1600.7284909999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2629,11 +2901,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="1636.5149219999998" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception" />
     </event>
   </trace>
   <trace>
@@ -2641,11 +2914,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1638.630444" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2653,11 +2927,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1642.7808799999998" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2665,11 +2940,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1672.480744" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -2677,35 +2953,39 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1674.640222" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1678.164389" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1680.6797230000002" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1683.9701799999998" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, High, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2713,11 +2993,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1692.490264" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2725,155 +3006,174 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1728.1382279999998" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Sliding tackle, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1730.253373" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1733.1918099999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1734.3360389999998" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1742.577349" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1745.9365160000002" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1748.272724" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1750.794452" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1751.003283" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1751.8955959999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1756.748763" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1758.272055" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1762.010797" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1765.3990680000002" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1767.413443" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1769.083651" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1773.1718179999998" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1775.806212" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1778.338628" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, Accurate" />
     </event>
   </trace>
   <trace>
@@ -2881,11 +3181,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="1779.403538" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -2893,11 +3194,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1780.27009" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2905,11 +3207,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="1789.341922" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception" />
     </event>
   </trace>
   <trace>
@@ -2917,11 +3220,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="1843.389416" />
       <string id="SubEvent" value="Goal kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -2929,19 +3233,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1847.739041" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1848.5375" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -2949,27 +3255,30 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1849.52587" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1853.009224" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1853.539035" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on right, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -2977,11 +3286,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1865.369906" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -2989,19 +3299,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1865.868051" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Anticipation, Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1867.313197" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3009,19 +3321,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1876.545344" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="1878.665354" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -3029,11 +3343,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1918.936873" />
       <string id="SubEvent" value="Launch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -3041,35 +3356,39 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1920.982331" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1922.888665" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="1926.742832" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="1927.857206" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -3077,19 +3396,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1929.289373" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="1930.651018" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Yellow card" />
     </event>
   </trace>
   <trace>
@@ -3097,11 +3418,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="1997.132186" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3109,11 +3431,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2027.917311" />
       <string id="SubEvent" value="Goal kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -3121,43 +3444,48 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2033.561457" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2036.694684" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2037.527059" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2040.212805" />
       <string id="SubEvent" value="Smart pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2043.615531" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3165,11 +3493,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2057.510545" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3177,11 +3506,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2078.15667" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3189,19 +3519,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2082.785148" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2083.969522" />
       <string id="SubEvent" value="Launch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3209,11 +3541,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="2087.913584" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception" />
     </event>
   </trace>
   <trace>
@@ -3221,11 +3554,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2089.946895" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3233,11 +3567,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2097.067634" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3245,11 +3580,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2098.503048" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3257,19 +3593,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Save attempt" />
       <string id="EventSec" value="2103.445756" />
       <string id="SubEvent" value="Reflexes" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Position: Goal low right, Accurate" />
     </event>
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2107.822944" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3277,11 +3615,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2114.445628" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3289,35 +3628,39 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2117.353084" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2119.058313" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2121.603017" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2125.572225" />
       <string id="SubEvent" value="High pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -3325,11 +3668,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2127.241116" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3337,131 +3681,147 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2143.073261" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2146.157553" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2150.609761" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2151.58451" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2152.358218" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2154.134385" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2155.819719" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2158.449865" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2163.499073" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2165.734219" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2166.055819" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2167.999215" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2170.165651" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2171.715004" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2176.690421" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2177.802855" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3469,11 +3829,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2185.868619" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3481,163 +3842,183 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2197.956274" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2200.65042" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2203.876566" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="2205.473833" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2211.312958" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2213.594146" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2216.536313" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2217.779562" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2220.751708" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2224.066" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2229.8005" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2233.408792" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2234.440188" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2240.008749" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2241.067124" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2242.000291" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2242.665833" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2243.464041" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2245.033374" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2247.371059" />
       <string id="SubEvent" value="Cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Right foot, Blocked, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3645,27 +4026,30 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2251.713452" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2254.41937" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2256.005491" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -3673,11 +4057,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="K. Mbapp\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2256.816574" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on left, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3685,11 +4070,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2264.57205" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3697,11 +4083,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2271.484081" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3709,11 +4096,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2369.447264" />
       <string id="SubEvent" value="Free kick cross" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Assist, High, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3721,11 +4109,12 @@
     <string id="EndReason" value="Shot" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Shot" />
       <string id="EventSec" value="2370.699238" />
       <string id="SubEvent" value="Shot" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Goal, Head/body, Opportunity, Position: Goal low left, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3733,11 +4122,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2469.842528" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3745,11 +4135,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2474.550897" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3757,11 +4148,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="2500.53202" />
       <string id="SubEvent" value="Clearance" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3769,83 +4161,93 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Save attempt" />
       <string id="EventSec" value="2505.513165" />
       <string id="SubEvent" value="Save attempt" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Position: Goal center, Accurate" />
     </event>
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2512.763165" />
       <string id="SubEvent" value="Hand pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2515.419165" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2519.334391" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2522.28037" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space left, Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2524.080412" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2526.539433" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2530.300433" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2533.565641" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2535.075805" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -3853,11 +4255,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2537.314201" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space left, Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3865,11 +4268,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2538.65943" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3877,11 +4281,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2539.767552" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Anticipation, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3889,19 +4294,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2547.389627" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="2548.87596" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -3909,11 +4316,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2587.267584" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -3921,11 +4329,12 @@
     <string id="EndReason" value="Save attempt" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Save attempt" />
       <string id="EventSec" value="2588.672416" />
       <string id="SubEvent" value="Reflexes" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Position: Goal center left, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3933,11 +4342,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="H. Lloris" />
-      <string id="Position" value="GKP" />
+      <string id="concept:name" value="GKP" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2629.257476" />
       <string id="SubEvent" value="Goal kick" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -3945,11 +4355,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2631.066848" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -3957,19 +4368,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2656.786411" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2658.031576" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -3977,19 +4390,21 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2658.540846" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Anticipation, Neutral, Accurate" />
     </event>
     <event>
       <string id="Player" value="L. Hern\u00e1ndez" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="LB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2679.375909" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -3997,11 +4412,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2681.513992" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -4009,11 +4425,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2682.256888" />
       <string id="SubEvent" value="Ground loose ball duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -4021,19 +4438,21 @@
     <string id="EndReason" value="Foul" />
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2708.335554" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Lost, Not accurate" />
     </event>
     <event>
       <string id="Player" value="S. Umtiti" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Foul" />
       <string id="EventSec" value="2709.2477" />
       <string id="SubEvent" value="Foul" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="" />
     </event>
   </trace>
   <trace>
@@ -4041,11 +4460,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2744.451384" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -4053,11 +4473,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2749.958801" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -4065,11 +4486,12 @@
     <string id="EndReason" value="Others on the ball" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Others on the ball" />
       <string id="EventSec" value="2755.618455" />
       <string id="SubEvent" value="Touch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Interception" />
     </event>
   </trace>
   <trace>
@@ -4077,19 +4499,21 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="R. Varane" />
-      <string id="Position" value="CB" />
+      <string id="concept:name" value="CB" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2758.684619" />
       <string id="SubEvent" value="Air duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="O. Giroud" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2760.490282" />
       <string id="SubEvent" value="Launch" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -4097,11 +4521,12 @@
     <string id="EndReason" value="Pass" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2771.705978" />
       <string id="SubEvent" value="Head pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Not accurate" />
     </event>
   </trace>
   <trace>
@@ -4109,19 +4534,21 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2792.261536" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="P. Pogba" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2795.631803" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Neutral, Accurate" />
     </event>
   </trace>
   <trace>
@@ -4129,11 +4556,12 @@
     <string id="EndReason" value="Free Kick" />
     <event>
       <string id="Player" value="B. Pavard" />
-      <string id="Position" value="RB" />
+      <string id="concept:name" value="RB" />
       <string id="Action" value="Free Kick" />
       <string id="EventSec" value="2812.084711" />
       <string id="SubEvent" value="Throw in" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
   </trace>
   <trace>
@@ -4141,11 +4569,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="C. Tolisso" />
-      <string id="Position" value="CM" />
+      <string id="concept:name" value="CM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2822.908851" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Free space right, Lost, Not accurate" />
     </event>
   </trace>
   <trace>
@@ -4153,27 +4582,30 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2824.294745" />
       <string id="SubEvent" value="Ground defending duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Won, Accurate" />
     </event>
     <event>
       <string id="Player" value="N. Kant\u00e9" />
-      <string id="Position" value="nan" />
+      <string id="concept:name" value="CDM" />
       <string id="Action" value="Pass" />
       <string id="EventSec" value="2825.082992" />
       <string id="SubEvent" value="Simple pass" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Accurate" />
     </event>
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2826.007532" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on right, Won, Accurate" />
     </event>
   </trace>
   <trace>
@@ -4181,11 +4613,12 @@
     <string id="EndReason" value="Duel" />
     <event>
       <string id="Player" value="A. Griezmann" />
-      <string id="Position" value="FW" />
+      <string id="concept:name" value="FW" />
       <string id="Action" value="Duel" />
       <string id="EventSec" value="2827.00472" />
       <string id="SubEvent" value="Ground attacking duel" />
       <string id="MatchPeriod" value="1H" />
+      <string id="Tags" value="Take on left, Lost, Not accurate" />
     </event>
   </trace>
 </log>
