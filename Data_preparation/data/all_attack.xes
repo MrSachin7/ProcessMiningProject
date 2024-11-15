@@ -5099,7 +5099,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
@@ -5110,7 +5110,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
@@ -5121,7 +5121,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
@@ -5132,7 +5132,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
@@ -5143,7 +5143,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="B. Matuidi" />
@@ -5154,7 +5154,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Left foot, Blocked, Not accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
   </trace>
   <trace>
@@ -5169,7 +5169,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="B. Matuidi" />
@@ -5180,7 +5180,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
@@ -5191,7 +5191,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Key pass, Through, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="O. Giroud" />
@@ -5202,7 +5202,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Left foot, Blocked, Opportunity, Not accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
   </trace>
   <trace>
@@ -5217,7 +5217,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
@@ -5228,7 +5228,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="A. Griezmann" />
@@ -5239,7 +5239,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="O. Giroud" />
@@ -5250,7 +5250,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Counter attack, Left foot, Position: Out high left, Not accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
   </trace>
   <trace>
@@ -5265,7 +5265,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Won, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
@@ -5276,7 +5276,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Head/body, Opportunity, Position: Out high left, Not accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
   </trace>
   <trace>
@@ -5291,7 +5291,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Interception, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
@@ -5302,7 +5302,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Key pass, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="A. Griezmann" />
@@ -5313,7 +5313,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Right foot, Opportunity, Position: Goal low left, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
   </trace>
   <trace>
@@ -5328,7 +5328,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
@@ -5339,7 +5339,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="A. Griezmann" />
@@ -5350,7 +5350,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
@@ -5361,7 +5361,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
@@ -5372,7 +5372,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Key pass, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="C. Tolisso" />
@@ -5383,7 +5383,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Left foot, Opportunity, Position: Goal low right, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
   </trace>
   <trace>
@@ -5398,7 +5398,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
@@ -5409,7 +5409,7 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
+      <string key="custom:status" value="LEADING" />
     </event>
   </trace>
   <trace>
