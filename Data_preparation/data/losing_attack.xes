@@ -9,7 +9,7 @@
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
       <string key="custom:action" value="Free Kick" />
-      <date key="time:timeStamp" value="2020-01-01T00:04:54.744532" />
+      <date key="time:timeStamp" value="2020-01-01T00:49:54.744532" />
       <string key="custom:subevent" value="Free Kick" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
@@ -20,7 +20,7 @@
       <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="org:resource" value="CF" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:04:57.166637" />
+      <date key="time:timeStamp" value="2020-01-01T00:49:57.166637" />
       <string key="custom:subevent" value="Cross" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Right foot, Not accurate" />
@@ -35,7 +35,7 @@
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:19.933245" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:19.933245" />
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
@@ -46,7 +46,7 @@
       <string key="concept:name" value="S. Umtiti" />
       <string key="org:resource" value="CB" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:22.189040" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:22.189040" />
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
@@ -57,7 +57,7 @@
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:25.259225" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:25.259225" />
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
@@ -68,7 +68,7 @@
       <string key="concept:name" value="S. Umtiti" />
       <string key="org:resource" value="CB" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:27.631849" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:27.631849" />
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
@@ -79,7 +79,7 @@
       <string key="concept:name" value="H. Lloris" />
       <string key="org:resource" value="GKP" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:30.806781" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:30.806781" />
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
@@ -90,7 +90,7 @@
       <string key="concept:name" value="R. Varane" />
       <string key="org:resource" value="CB" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:34.837939" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:34.837939" />
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
@@ -101,7 +101,7 @@
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
       <string key="custom:action" value="Others on the ball" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:37.448353" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:37.448353" />
       <string key="custom:subevent" value="Touch" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="" />
@@ -112,7 +112,7 @@
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:40.549707" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:40.549707" />
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
@@ -123,7 +123,7 @@
       <string key="concept:name" value="B. Matuidi" />
       <string key="org:resource" value="LM" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:42.349985" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:42.349985" />
       <string key="custom:subevent" value="Smart pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Through, Accurate" />
@@ -134,7 +134,7 @@
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
       <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:45.627015" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:45.627015" />
       <string key="custom:subevent" value="Cross" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Left foot, High, Accurate" />
@@ -149,7 +149,7 @@
       <string key="concept:name" value="B. Pavard" />
       <string key="org:resource" value="RB" />
       <string key="custom:action" value="Shot" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:48.161917" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:48.161917" />
       <string key="custom:subevent" value="Shot" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Goal, Right foot, Opportunity, Position: Goal high left, Accurate" />
