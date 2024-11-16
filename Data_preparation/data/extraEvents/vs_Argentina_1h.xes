@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7" xmlns="http://www.xes-standard.org/">
   <trace>
-    <string key="StartReason" value="None" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause None" />
+    </event>
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="Position" value="FW" />
@@ -30,10 +31,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Lost, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Free Kick" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Free Kick" />
+    </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
       <string key="Position" value="CM" />
@@ -106,10 +111,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Neutral, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
       <string key="Position" value="CM" />
@@ -128,10 +137,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="Position" value="CDM" />
@@ -159,10 +172,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Lost, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Foul" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
       <string key="Position" value="CM" />
@@ -181,10 +198,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Foul" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="Position" value="FW" />
@@ -230,10 +251,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="B. Pavard" />
       <string key="Position" value="RB" />
@@ -342,10 +367,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Through, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="H. Lloris" />
       <string key="Position" value="GKP" />
@@ -382,10 +411,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Missed ball" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="Position" value="CB" />
@@ -404,10 +437,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Neutral, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="H. Lloris" />
       <string key="Position" value="GKP" />
@@ -426,10 +463,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="Position" value="FW" />
@@ -466,10 +507,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -515,10 +560,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="Position" value="LB" />
@@ -537,10 +586,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="Position" value="CB" />
@@ -559,10 +612,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
       <string key="Position" value="CM" />
@@ -581,10 +638,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="Position" value="LB" />
@@ -603,10 +664,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="Position" value="LB" />
@@ -625,10 +690,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Neutral, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -647,10 +716,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Free Kick" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Free Kick" />
+    </event>
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="Position" value="FW" />
@@ -669,10 +742,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Lost, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Others on the ball" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="Position" value="CDM" />
@@ -691,10 +768,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="Position" value="CB" />
@@ -713,10 +794,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -735,10 +820,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Take on right, Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Foul" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
       <string key="Position" value="CM" />
@@ -757,10 +846,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Counter attack, Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="B. Matuidi" />
       <string key="Position" value="LM" />
@@ -779,10 +872,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Take on left, Lost, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -801,10 +898,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Neutral, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Free Kick" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Free Kick" />
+    </event>
     <event>
       <string key="concept:name" value="H. Lloris" />
       <string key="Position" value="GKP" />
@@ -832,10 +933,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Lost, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="B. Pavard" />
       <string key="Position" value="RB" />
@@ -863,10 +968,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Counter attack, Take on right, Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -930,10 +1039,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
       <string key="Position" value="CM" />
@@ -1015,10 +1128,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Right foot, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Others on the ball" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -1064,10 +1181,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Through, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="H. Lloris" />
       <string key="Position" value="GKP" />
@@ -1131,10 +1252,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Others on the ball" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="Position" value="LB" />
@@ -1162,10 +1287,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Others on the ball" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -1238,10 +1367,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Counter attack, Take on right, Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="B. Matuidi" />
       <string key="Position" value="LM" />
@@ -1296,10 +1429,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="Position" value="FW" />
@@ -1318,10 +1455,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="Position" value="CDM" />
@@ -1340,10 +1481,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Neutral, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Foul" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
     <event>
       <string key="concept:name" value="B. Matuidi" />
       <string key="Position" value="LM" />
@@ -1425,10 +1570,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Foul" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="B. Matuidi" />
       <string key="Position" value="LM" />
@@ -1447,10 +1596,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Foul" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="Position" value="CB" />
@@ -1487,10 +1640,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="Position" value="LB" />
@@ -1545,10 +1702,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Lost, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="Position" value="FW" />
@@ -1567,10 +1728,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Foul" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="Position" value="FW" />
@@ -1589,10 +1754,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Foul" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="Position" value="FW" />
@@ -1611,10 +1780,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="Position" value="LB" />
@@ -1651,10 +1824,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Anticipation, Lost, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="H. Lloris" />
       <string key="Position" value="GKP" />
@@ -1691,10 +1868,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="B. Pavard" />
       <string key="Position" value="RB" />
@@ -1929,10 +2110,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Opportunity, Missed ball" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Shot" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Shot" />
+    </event>
     <event>
       <string key="concept:name" value="H. Lloris" />
       <string key="Position" value="GKP" />
@@ -2014,10 +2199,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="Position" value="CB" />
@@ -2045,10 +2234,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Foul" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="Position" value="CB" />
@@ -2094,10 +2287,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Anticipation, Lost, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -2161,10 +2358,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="B. Pavard" />
       <string key="Position" value="RB" />
@@ -2183,10 +2384,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Missed ball" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Others on the ball" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="Position" value="CB" />
@@ -2214,10 +2419,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Foul" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="P. Pogba" />
       <string key="Position" value="CM" />
@@ -2236,10 +2445,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Foul" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="Position" value="LB" />
@@ -2330,10 +2543,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Pass" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
     <event>
       <string key="concept:name" value="B. Pavard" />
       <string key="Position" value="RB" />
@@ -2361,10 +2578,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Pass" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="Position" value="FW" />
@@ -2383,10 +2604,14 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Through, Not accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Duel" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="Position" value="FW" />
@@ -2405,13 +2630,17 @@
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Free space right, Won, Accurate" />
     </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
   </trace>
   <trace>
-    <string key="StartReason" value="Duel" />
-    <string key="EndReason" value="Free Kick" />
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
     <event>
       <string key="Position" value="CM" />
-      <string key="org:resource" value="P. Pogba" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="Action" value="Duel" />
       <string key="time:timeStamp" value="2020-01-01T00:46:51.475579" />
       <string key="SubEvent" value="Ground attacking duel" />
@@ -2420,12 +2649,15 @@
     </event>
     <event>
       <string key="Position" value="RB" />
-      <string key="org:resource" value="B. Pavard" />
+      <string key="concept:name" value="B. Pavard" />
       <string key="Action" value="Free Kick" />
       <string key="time:timeStamp" value="2020-01-01T00:46:57.990344" />
       <string key="SubEvent" value="Throw in" />
       <string key="MatchPeriod" value="1H" />
       <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Free Kick" />
     </event>
   </trace>
 </log>

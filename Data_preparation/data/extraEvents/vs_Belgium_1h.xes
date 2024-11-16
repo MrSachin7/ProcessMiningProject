@@ -1,0 +1,2892 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7" xmlns="http://www.xes-standard.org/">
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause None" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:01.782790" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:04.838240" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:06.994144" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:08.982080" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on right, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:12.485081" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on right, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:14.466735" />
+      <string key="SubEvent" value="Cross" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Right foot, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:21.194764" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:22.360084" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:37.484292" />
+      <string key="SubEvent" value="Throw in" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:40.045059" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:42.401681" />
+      <string key="SubEvent" value="Ground loose ball duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:48.090378" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:52.247447" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:55.889588" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:00:57.224061" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:01.262413" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:05.135694" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:05.738709" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:07.952902" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:10.342562" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:17.058277" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:21.488753" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:24.316298" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:26.354140" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:29.278806" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:32.914827" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:36.131415" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:38.674250" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:40.913915" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:45.227162" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:46.535854" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:49.493104" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:51.431211" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:01:59.315181" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:02.085470" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:04.203052" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:05.831602" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:12.804902" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:18.309902" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:19.809771" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:23.276448" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:25.886382" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:30.139921" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:39.349147" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:02:41.370009" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:03:47.756414" />
+      <string key="SubEvent" value="Ground defending duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on right, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:03:49.679327" />
+      <string key="SubEvent" value="Clearance" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Free Kick" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:06:38.964388" />
+      <string key="SubEvent" value="Goal kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:06:45.440332" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:08:52.489465" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:08:54.867070" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:05.186636" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:19.650531" />
+      <string key="SubEvent" value="Goal kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:26.382914" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:29.862818" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:33.856321" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:43.169241" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:44.709525" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:48.924192" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:49.741549" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:51.271846" />
+      <string key="SubEvent" value="Acceleration" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:54.165710" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:56.345747" />
+      <string key="SubEvent" value="Cross" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Left foot, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:09:58.106670" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Missed ball" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:10:03.784820" />
+      <string key="SubEvent" value="Ground defending duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Free space right, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:10:05.889182" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:10:06.880580" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:10:08.547366" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Through, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:10:11.263528" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:10:12.241574" />
+      <string key="SubEvent" value="Ground loose ball duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:11:36.511394" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:11:38.650497" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:11:39.294095" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:11:40.614389" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:12:10.383343" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Counter attack, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:12:11.434408" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Counter attack, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:12:14.158734" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Counter attack, Take on left, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:13:22.948096" />
+      <string key="SubEvent" value="Throw in" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:13:23.305791" />
+      <string key="SubEvent" value="Ground loose ball duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Offside" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:13:48.752773" />
+      <string key="SubEvent" value="Free Kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:13:52.483532" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:13:54.628676" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:13:55.637554" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:13:57.843311" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:00.682062" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:04.451033" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:07.848776" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:09.546055" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:15.066586" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:16.467468" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:17.708433" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:18.527345" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:21.268372" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:22.052662" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:31.746072" />
+      <string key="SubEvent" value="Ground defending duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on right, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:33.230923" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:34.604560" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:36.312529" />
+      <string key="SubEvent" value="Head pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:41.786194" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:42.757332" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:48.469652" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:52.160524" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:53.199381" />
+      <string key="SubEvent" value="Launch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:14:56.168209" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Shot" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:15:40.069371" />
+      <string key="SubEvent" value="Goal kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:15:43.479295" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:15:53.929585" />
+      <string key="SubEvent" value="Smart pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:15:55.431991" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:16:53.338181" />
+      <string key="SubEvent" value="Free Kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:16:54.517274" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:16:57.959441" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:03.415580" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:05.494838" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:06.972983" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:09.783887" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:13.819356" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:15.332742" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:18.428115" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:23.908919" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on right, Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:37.913213" />
+      <string key="SubEvent" value="Throw in" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Free Kick" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:40.260336" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Anticipation, Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:17:41.276303" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Free Kick" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:19:12.402893" />
+      <string key="SubEvent" value="Clearance" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:19:13.936321" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:19:28.702803" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:19:33.503975" />
+      <string key="SubEvent" value="Ground loose ball duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Sliding tackle, Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:19:35.237779" />
+      <string key="SubEvent" value="Acceleration" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:19:37.836370" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:19:39.059033" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on right, Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:20:59.186665" />
+      <string key="SubEvent" value="Ground loose ball duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:20:59.376113" />
+      <string key="SubEvent" value="Clearance" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:01.023883" />
+      <string key="SubEvent" value="Free Kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:02.283617" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:07.558841" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:08.656098" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:13.707830" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:18.650409" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:19.303764" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:20.356965" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:21.499986" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:24.098958" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:24.768946" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:26.369952" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:29.524073" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:31.399529" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:32.365449" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:35.667219" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:37.470780" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:40.183719" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Key pass, Through, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Shot" />
+      <string key="time:timeStamp" value="2020-01-01T00:22:42.547944" />
+      <string key="SubEvent" value="Shot" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Left foot, Opportunity, Position: Out low right, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Shot" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:36.697431" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:39.699072" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:43.788501" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:46.246029" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:47.310492" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:49.568219" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:52.106985" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:55.587951" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:23:58.071465" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:24:00.955813" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:24:02.724088" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Free space left, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:24:04.680739" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:24:05.001663" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:24:07.660796" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:24:08.889195" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:24:10.288725" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:24:12.025908" />
+      <string key="SubEvent" value="Cross" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Left foot, Blocked, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:25:04.744894" />
+      <string key="SubEvent" value="Throw in" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:25:06.883007" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:25:08.567144" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:25:09.803999" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on left, Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:26:56.900513" />
+      <string key="SubEvent" value="Throw in" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:26:58.638788" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:27:01.448894" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:27:04.869765" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:27:06.378841" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Free space left, Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:00.286764" />
+      <string key="SubEvent" value="Free Kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:04.447177" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:06.761168" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:08.298206" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:11.638336" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:15.395439" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:17.525195" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:18.669206" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:21.039525" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:24.745320" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:28.359005" />
+      <string key="SubEvent" value="Acceleration" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:31.541990" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Free space left, Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:44.856355" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:47.434763" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:49.042360" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:52.090586" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:28:53.832037" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:29:27.927995" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:29:30.688163" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:30:28.744397" />
+      <string key="SubEvent" value="Free Kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:30:30.655181" />
+      <string key="SubEvent" value="Cross" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Key pass, Right foot, High, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Shot" />
+      <string key="time:timeStamp" value="2020-01-01T00:30:32.594791" />
+      <string key="SubEvent" value="Shot" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Head/body, Opportunity, Position: Out center right, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Shot" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:31:08.183979" />
+      <string key="SubEvent" value="Ground defending duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on right, Neutral, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="Position" value="GKP" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:31:34.725178" />
+      <string key="SubEvent" value="Goal kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:31:37.703699" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:31:41.012902" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:31:44.312414" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:31:48.072472" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:31:51.228996" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:31:58.771491" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:32:00.737344" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:32:01.755144" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:32:02.785684" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:32:04.546337" />
+      <string key="SubEvent" value="Cross" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Left foot, Blocked, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:32:08.030547" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Free space right, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Shot" />
+      <string key="time:timeStamp" value="2020-01-01T00:32:08.681564" />
+      <string key="SubEvent" value="Shot" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Right foot, Position: Out high right, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Shot" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:32:55.301469" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Counter attack, Interception, Take on left, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:32:56.852681" />
+      <string key="SubEvent" value="Acceleration" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Counter attack, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:33:01.510427" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Counter attack, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:33:08.976375" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:33:11.644021" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Key pass, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Shot" />
+      <string key="time:timeStamp" value="2020-01-01T00:33:12.976873" />
+      <string key="SubEvent" value="Shot" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Left foot, Opportunity, Position: Out low right, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Shot" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:34:39.439486" />
+      <string key="SubEvent" value="Free Kick" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:34:42.699322" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:34:46.530257" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:34:48.765522" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:34:52.012741" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:34:56.313392" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:34:57.318945" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Others on the ball" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:35:55.981401" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:35:56.846827" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:35:57.484159" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:36:01.099412" />
+      <string key="SubEvent" value="Acceleration" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Others on the ball" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:36:03.854447" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Shot" />
+      <string key="time:timeStamp" value="2020-01-01T00:36:06.865657" />
+      <string key="SubEvent" value="Shot" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Left foot, Position: Out low right, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Shot" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:27.204550" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:29.833032" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:32.246276" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:35.514854" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:37.071333" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:41.365187" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Shot" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:42.961945" />
+      <string key="SubEvent" value="Shot" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Left foot, Blocked, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Shot" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:48.801392" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:52.560544" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:55.157966" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:57.441580" />
+      <string key="SubEvent" value="Smart pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Key pass, Through, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Shot" />
+      <string key="time:timeStamp" value="2020-01-01T00:38:58.335249" />
+      <string key="SubEvent" value="Shot" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Right foot, Opportunity, Position: Goal low center, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Shot" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:39:32.463316" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:39:37.616859" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:39:39.467231" />
+      <string key="SubEvent" value="Cross" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Right foot, High, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:39:44.381359" />
+      <string key="SubEvent" value="Head pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:39:46.070745" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:40:46.271911" />
+      <string key="SubEvent" value="Ground defending duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:40:48.236786" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:40:50.507676" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:40:51.649693" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:40:55.074449" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:41:00.851094" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:41:05.334637" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:41:06.496255" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="P. Pogba" />
+      <string key="Position" value="CM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:41:09.134760" />
+      <string key="SubEvent" value="High pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:41:11.037615" />
+      <string key="SubEvent" value="Air duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:41:54.415063" />
+      <string key="SubEvent" value="Clearance" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Interception, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:41:56.132383" />
+      <string key="SubEvent" value="Ground loose ball duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Duel" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:41:58.738294" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:00.861182" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Matuidi" />
+      <string key="Position" value="LM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:02.027922" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
+      <string key="Position" value="LB" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:05.077733" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Free space left, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Foul" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="Position" value="CDM" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:15.576311" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:18.393710" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:21.583514" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Take on left, Lost, Not accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="startcause Pass" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="Position" value="RB" />
+      <string key="Action" value="Free Kick" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:29.694609" />
+      <string key="SubEvent" value="Throw in" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:33.164745" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Others on the ball" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:36.793103" />
+      <string key="SubEvent" value="Touch" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="" />
+    </event>
+    <event>
+      <string key="concept:name" value="S. Umtiti" />
+      <string key="Position" value="CB" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:37.944990" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Pass" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:41.045063" />
+      <string key="SubEvent" value="Simple pass" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="Position" value="FW" />
+      <string key="Action" value="Duel" />
+      <string key="time:timeStamp" value="2020-01-01T00:42:45.636282" />
+      <string key="SubEvent" value="Ground attacking duel" />
+      <string key="MatchPeriod" value="1H" />
+      <string key="Tags" value="Free space right, Won, Accurate" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+</log>
