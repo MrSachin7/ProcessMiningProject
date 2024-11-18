@@ -11754,6 +11754,21 @@
   </trace>
   <trace>
     <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="org:resource" value="AM" />
+      <string key="custom:action" value="Free Kick" />
+      <date key="time:timeStamp" value="2020-01-01T00:12:41.289657" />
+      <string key="custom:subevent" value="Penalty" />
+      <string key="custom:matchperiod" value="1H" />
+      <string key="custom:tags" value="Goal, Left foot, Position: Goal low center, Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Free Kick" />
+    </event>
+  </trace>
+  <trace>
+    <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="org:resource" value="CB" />
       <string key="custom:action" value="Duel" />
@@ -23745,6 +23760,21 @@
     </event>
     <event>
       <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="org:resource" value="AM" />
+      <string key="custom:action" value="Free Kick" />
+      <date key="time:timeStamp" value="2020-01-01T00:57:10.009243" />
+      <string key="custom:subevent" value="Penalty" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Goal, Left foot, Position: Goal center right, Accurate" />
+      <string key="custom:match" value="France - Australia, 2 - 1" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Free Kick" />
     </event>
   </trace>
   <trace>
@@ -36845,6 +36875,21 @@
     </event>
     <event>
       <string key="concept:name" value="endcause Pass" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="concept:name" value="A. Griezmann" />
+      <string key="org:resource" value="AM" />
+      <string key="custom:action" value="Free Kick" />
+      <date key="time:timeStamp" value="2020-01-01T00:37:58.895744" />
+      <string key="custom:subevent" value="Penalty" />
+      <string key="custom:matchperiod" value="1H" />
+      <string key="custom:tags" value="Goal, Left foot, Position: Goal low left, Accurate" />
+      <string key="custom:match" value="France - Croatia, 4 - 2" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Free Kick" />
     </event>
   </trace>
   <trace>
@@ -60210,6 +60255,44 @@
     </event>
     <event>
       <string key="concept:name" value="endcause Duel" />
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="GKP" />
+      <string key="concept:name" value="H. Lloris" />
+      <string key="custom:action" value="Goalkeeper leaving line" />
+      <date key="time:timeStamp" value="2020-01-01T01:34:40.125441" />
+      <string key="custom:subevent" value="Goalkeeper leaving line" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="" />
+      <string key="custom:match" value="Uruguay - France, 0 - 2" />
+      <string key="custom:status" value="LEADING" />
+    </event>
+    <event>
+      <string key="org:resource" value="GKP" />
+      <string key="concept:name" value="H. Lloris" />
+      <string key="custom:action" value="Pass" />
+      <date key="time:timeStamp" value="2020-01-01T01:34:51.058941" />
+      <string key="custom:subevent" value="Hand pass" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Accurate" />
+      <string key="custom:match" value="Uruguay - France, 0 - 2" />
+      <string key="custom:status" value="LEADING" />
+    </event>
+    <event>
+      <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
+      <string key="custom:action" value="Pass" />
+      <date key="time:timeStamp" value="2020-01-01T01:34:54.786004" />
+      <string key="custom:subevent" value="Simple pass" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Not accurate" />
+      <string key="custom:match" value="Uruguay - France, 0 - 2" />
+      <string key="custom:status" value="LEADING" />
+    </event>
+    <event>
+      <string key="concept:name" value="endcause Pass" />
     </event>
   </trace>
 </log>
