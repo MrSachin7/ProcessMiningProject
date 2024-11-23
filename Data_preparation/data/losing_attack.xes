@@ -32,6 +32,83 @@
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Pass" />
     <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="org:resource" value="GKP" />
+      <string key="custom:action" value="Pass" />
+      <date key="time:timeStamp" value="2020-01-01T00:55:55.959008" />
+      <string key="custom:subevent" value="Hand pass" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+      <string key="custom:status" value="LOSING" />
+    </event>
+    <event>
+      <string key="concept:name" value="R. Varane" />
+      <string key="org:resource" value="CB" />
+      <string key="custom:action" value="Pass" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:00.094663" />
+      <string key="custom:subevent" value="Simple pass" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+      <string key="custom:status" value="LOSING" />
+    </event>
+    <event>
+      <string key="concept:name" value="K. Mbapp\u00e9" />
+      <string key="org:resource" value="CF" />
+      <string key="custom:action" value="Pass" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:01.281821" />
+      <string key="custom:subevent" value="Simple pass" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+      <string key="custom:status" value="LOSING" />
+    </event>
+    <event>
+      <string key="concept:name" value="N. Kant\u00e9" />
+      <string key="org:resource" value="CDM" />
+      <string key="custom:action" value="Pass" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:03.789611" />
+      <string key="custom:subevent" value="Simple pass" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+      <string key="custom:status" value="LOSING" />
+    </event>
+    <event>
+      <string key="concept:name" value="B. Pavard" />
+      <string key="org:resource" value="RB" />
+      <string key="custom:action" value="Pass" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:05.437266" />
+      <string key="custom:subevent" value="Simple pass" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+      <string key="custom:status" value="LOSING" />
+    </event>
+    <event>
+      <string key="concept:name" value="H. Lloris" />
+      <string key="org:resource" value="GKP" />
+      <string key="custom:action" value="Pass" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:12.381157" />
+      <string key="custom:subevent" value="Launch" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+      <string key="custom:status" value="LOSING" />
+    </event>
+    <event>
+      <string key="concept:name" value="O. Giroud" />
+      <string key="org:resource" value="CF" />
+      <string key="custom:action" value="Duel" />
+      <date key="time:timeStamp" value="2020-01-01T00:56:14.966694" />
+      <string key="custom:subevent" value="Ground loose ball duel" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Won, Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+      <string key="custom:status" value="LOSING" />
+    </event>
+    <event>
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
       <string key="custom:action" value="Pass" />

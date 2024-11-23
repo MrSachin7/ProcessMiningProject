@@ -382,7 +382,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
@@ -394,10 +394,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
@@ -420,10 +416,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
@@ -475,37 +467,11 @@
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:01:46.360915" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="A. Griezmann" />
-      <string key="org:resource" value="AM" />
       <string key="custom:action" value="Foul" />
       <date key="time:timeStamp" value="2020-01-01T00:01:49.186212" />
       <string key="custom:subevent" value="Foul" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="P. Kimpembe" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:02:23.175180" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -625,36 +591,6 @@
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
       <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:03:11.462208" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="L. Hern\u00e1ndez" />
-      <string key="org:resource" value="LB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:03:13.711836" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Take on right, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="P. Kimpembe" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:03:16.329838" />
       <string key="custom:subevent" value="Ground defending duel" />
       <string key="custom:matchperiod" value="1H" />
@@ -687,7 +623,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Foul" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -710,10 +646,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
@@ -725,10 +657,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
@@ -757,7 +685,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Free Kick" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
@@ -767,21 +695,6 @@
       <string key="custom:subevent" value="Air duel" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Won, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="P. Kimpembe" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:04:34.948148" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -883,7 +796,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Others on the ball" />
     <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
@@ -924,21 +837,6 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:05:21.543759" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Others on the ball" />
     <event>
@@ -956,17 +854,6 @@
   <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Others on the ball" />
-    <event>
-      <string key="concept:name" value="S. N'Zonzi" />
-      <string key="org:resource" value="CM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:06:03.962205" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -1044,10 +931,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
@@ -1059,10 +942,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
@@ -1377,10 +1256,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
@@ -1515,36 +1390,6 @@
       <string key="custom:subevent" value="Launch" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:41.049436" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
-      <string key="org:resource" value="RW" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:41.763270" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -1731,7 +1576,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Pass" />
+    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
@@ -1754,10 +1599,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
@@ -1842,7 +1683,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Others on the ball" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
@@ -1876,10 +1717,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="D. Sidib\u00e9" />
       <string key="org:resource" value="RB" />
@@ -1917,36 +1754,10 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:13:12.656517" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Free space left, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="R. Varane" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:13:18.313151" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="org:resource" value="CB" />
@@ -1958,10 +1769,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="org:resource" value="CB" />
@@ -2230,7 +2037,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Save attempt" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -2253,10 +2060,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="org:resource" value="CB" />
@@ -2270,7 +2073,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Free Kick" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
@@ -2710,7 +2513,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -2799,17 +2602,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:19:22.091573" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
@@ -2828,7 +2620,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
@@ -2917,17 +2709,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:20:19.004359" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
@@ -2945,8 +2726,8 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:startReason" value="Pass" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="D. Sidib\u00e9" />
       <string key="org:resource" value="RB" />
@@ -2969,10 +2750,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
@@ -2997,7 +2774,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
@@ -3028,7 +2805,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="D. Sidib\u00e9" />
       <string key="org:resource" value="RB" />
@@ -3040,10 +2817,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="org:resource" value="CB" />
@@ -3138,21 +2911,6 @@
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="S. N'Zonzi" />
-      <string key="org:resource" value="CM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:22:53.372630" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
       <string key="custom:action" value="Duel" />
@@ -3214,7 +2972,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Foul" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
@@ -3391,10 +3149,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
@@ -3466,21 +3220,6 @@
       <string key="custom:subevent" value="Ground attacking duel" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Won, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="D. Sidib\u00e9" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:24:11.210375" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -3782,7 +3521,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -3871,10 +3610,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
@@ -3921,21 +3656,6 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:28:40.926219" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
@@ -3963,7 +3683,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
@@ -3975,32 +3695,10 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-    <event>
-      <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
-      <string key="org:resource" value="RW" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:29:00.818389" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Others on the ball" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:29:03.894927" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -4064,21 +3762,6 @@
       <string key="custom:subevent" value="Touch" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:29:19.721016" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -4191,21 +3874,6 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
-      <string key="org:resource" value="RW" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:29:55.400164" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Anticipation, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
@@ -4252,7 +3920,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
       <string key="org:resource" value="CM" />
@@ -4264,10 +3932,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
@@ -4323,17 +3987,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-    <event>
-      <string key="concept:name" value="T. Lemar" />
-      <string key="org:resource" value="LW" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:30:49.258500" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Free space right, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
@@ -4385,7 +4038,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
       <string key="org:resource" value="CM" />
@@ -4394,17 +4047,6 @@
       <string key="custom:subevent" value="Head pass" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Interception, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:32:15.632272" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Anticipation, Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -4436,8 +4078,8 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:startReason" value="Pass" />
+    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
@@ -4504,10 +4146,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
@@ -4522,7 +4160,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
@@ -4534,10 +4172,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
@@ -4553,17 +4187,6 @@
   <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Foul" />
-    <event>
-      <string key="concept:name" value="T. Lemar" />
-      <string key="org:resource" value="LW" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:19.817852" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -4905,7 +4528,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="P. Kimpembe" />
@@ -4920,8 +4543,8 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:startReason" value="Pass" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
@@ -5029,17 +4652,6 @@
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:36:12.182514" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -5388,21 +5000,6 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="S. N'Zonzi" />
-      <string key="org:resource" value="CM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:38:21.373164" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="R. Varane" />
@@ -5418,7 +5015,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -5430,10 +5027,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -5445,10 +5038,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -5490,21 +5079,6 @@
       <string key="custom:subevent" value="Shot" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Left foot, Opportunity, Position: Goal center, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="P. Kimpembe" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:39:14.851651" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -5594,21 +5168,6 @@
       <string key="custom:subevent" value="Cross" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Right foot, High, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="D. Sidib\u00e9" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:40:24.785009" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Take on left, Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -5775,21 +5334,6 @@
       <string key="custom:subevent" value="Ground loose ball duel" />
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Neutral, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="D. Sidib\u00e9" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:41:42.906542" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -6045,34 +5589,8 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="S. N'Zonzi" />
-      <string key="org:resource" value="CM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:43:56.105901" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:43:58.685903" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -6304,7 +5822,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
@@ -6327,10 +5845,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
@@ -6464,10 +5978,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
@@ -6479,10 +5989,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
@@ -6496,7 +6002,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="R. Varane" />
@@ -6506,21 +6012,6 @@
       <string key="custom:subevent" value="Air duel" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Won, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="R. Varane" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:45:26.510280" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -6822,7 +6313,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
       <string key="org:resource" value="CM" />
@@ -6842,17 +6333,6 @@
       <string key="custom:subevent" value="Cross" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Left foot, High, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:47:13.696998" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -6916,21 +6396,6 @@
       <string key="custom:subevent" value="Touch" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="L. Hern\u00e1ndez" />
-      <string key="org:resource" value="LB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:48:08.134902" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Take on right, Sliding tackle, Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -7050,17 +6515,6 @@
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
       <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:49:06.415700" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:49:09.142999" />
       <string key="custom:subevent" value="Ground loose ball duel" />
       <string key="custom:matchperiod" value="2H" />
@@ -7071,7 +6525,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Foul" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="org:resource" value="CB" />
@@ -7124,17 +6578,6 @@
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="T. Lemar" />
-      <string key="org:resource" value="LW" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:50:14.773631" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -7240,21 +6683,6 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="S. N'Zonzi" />
-      <string key="org:resource" value="CM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:50:59.937303" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Pass" />
     <event>
@@ -7301,7 +6729,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="B. Mendy" />
       <string key="org:resource" value="LB" />
@@ -7313,10 +6741,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="B. Mendy" />
       <string key="org:resource" value="LB" />
@@ -7394,10 +6818,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -7433,34 +6853,8 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="B. Mendy" />
-      <string key="org:resource" value="LB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:51:52.393466" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Take on left, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Foul" />
-    <event>
-      <string key="concept:name" value="P. Kimpembe" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:51:56.599385" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
     <event>
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
@@ -7469,21 +6863,6 @@
       <string key="custom:subevent" value="Foul" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="R. Varane" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:52:39.146186" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -7531,37 +6910,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:53:59.883054" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:54:01.916144" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
+    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="org:resource" value="CB" />
@@ -7628,10 +6977,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
@@ -7798,21 +7143,6 @@
       <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
       <string key="org:resource" value="RW" />
       <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:55:05.419189" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
-      <string key="org:resource" value="RW" />
-      <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:55:06.815612" />
       <string key="custom:subevent" value="Ground defending duel" />
       <string key="custom:matchperiod" value="2H" />
@@ -7824,17 +7154,6 @@
   <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Pass" />
-    <event>
-      <string key="concept:name" value="P. Kimpembe" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:55:11.842519" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
     <event>
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
@@ -7926,7 +7245,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
+    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
@@ -7960,10 +7279,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
@@ -7975,10 +7290,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
@@ -8238,18 +7549,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:59:44.734783" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
@@ -8261,10 +7561,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
       <string key="org:resource" value="CM" />
@@ -8273,21 +7569,6 @@
       <string key="custom:subevent" value="High pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="A. Griezmann" />
-      <string key="org:resource" value="AM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:59:57.110263" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -8338,21 +7619,6 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:00:53.870208" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Foul" />
     <event>
@@ -8384,7 +7650,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Goalkeeper leaving line" />
+    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -8396,10 +7662,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -8499,7 +7761,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -8665,10 +7927,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
@@ -8719,21 +7977,6 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Free Kick" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="D. Sidib\u00e9" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:05:24.407476" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Free space right, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Others on the ball" />
     <event>
@@ -8779,23 +8022,8 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="B. Mendy" />
-      <string key="org:resource" value="LB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:05:57.271737" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Free space right, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
@@ -8815,17 +8043,6 @@
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:06:03.565467" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -8954,17 +8171,6 @@
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:07:26.936012" />
-      <string key="custom:subevent" value="Ground loose ball duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="A. Griezmann" />
-      <string key="org:resource" value="AM" />
       <string key="custom:action" value="Foul" />
       <date key="time:timeStamp" value="2020-01-01T01:07:28.708663" />
       <string key="custom:subevent" value="Foul" />
@@ -8975,7 +8181,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Free Kick" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="R. Varane" />
@@ -8985,21 +8191,6 @@
       <string key="custom:subevent" value="Air duel" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Won, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
-      <string key="org:resource" value="RW" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:08:30.386045" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Free space right, Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -9176,10 +8367,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="R. Varane" />
       <string key="org:resource" value="CB" />
@@ -9275,47 +8462,6 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Fekir" />
-      <string key="org:resource" value="AM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:11:32.896589" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="N. Fekir" />
-      <string key="org:resource" value="AM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:11:34.068552" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:11:36.426891" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Free space left, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Others on the ball" />
     <event>
@@ -9326,21 +8472,6 @@
       <string key="custom:subevent" value="Clearance" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Interception, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="D. Sidib\u00e9" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:11:43.071546" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Free space left, Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -9444,21 +8575,6 @@
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="S. N'Zonzi" />
-      <string key="org:resource" value="CM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:12:29.143651" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Anticipation, Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -9594,7 +8710,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Pass" />
+    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="B. Mendy" />
       <string key="org:resource" value="LB" />
@@ -9661,10 +8777,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
@@ -9678,7 +8790,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Free Kick" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
@@ -9688,21 +8800,6 @@
       <string key="custom:subevent" value="Air duel" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Won, Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="D. Sidib\u00e9" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:15:13.780938" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Free space right, Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -9736,10 +8833,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="S. Mandanda" />
       <string key="org:resource" value="GKP" />
@@ -9762,10 +8855,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
@@ -9788,10 +8877,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -9816,38 +8901,8 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Fekir" />
-      <string key="org:resource" value="AM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:15:59.418234" />
-      <string key="custom:subevent" value="Ground defending duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Free space left, Anticipated, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:16:52.670774" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Interception, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="D. Sidib\u00e9" />
       <string key="org:resource" value="RB" />
@@ -9914,10 +8969,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="T. Lemar" />
       <string key="org:resource" value="LW" />
@@ -10012,7 +9063,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Free Kick" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
@@ -10042,7 +9093,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="B. Mendy" />
@@ -10165,7 +9216,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Others on the ball" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
@@ -10548,21 +9599,6 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="D. Sidib\u00e9" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:23:07.436256" />
-      <string key="custom:subevent" value="Air duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Duel" />
     <event>
@@ -10587,10 +9623,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="org:resource" value="CF" />
@@ -10674,22 +9706,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:23:48.753516" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Free space right, Lost, Not accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="P. Kimpembe" />
@@ -10776,10 +9793,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
       <string key="org:resource" value="CM" />
@@ -10805,7 +9818,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="N. Fekir" />
       <string key="org:resource" value="AM" />
@@ -10858,17 +9871,6 @@
       <string key="custom:subevent" value="Simple pass" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="T. Lemar" />
-      <string key="org:resource" value="LW" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:25:08.097839" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -11037,7 +10039,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
@@ -11071,10 +10073,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="N. Fekir" />
       <string key="org:resource" value="AM" />
@@ -11214,7 +10212,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Pass" />
+    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="D. Sidib\u00e9" />
       <string key="org:resource" value="RB" />
@@ -11446,10 +10444,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="org:resource" value="CF" />
@@ -11463,7 +10457,7 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Free Kick" />
     <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="S. N'Zonzi" />
@@ -11479,7 +10473,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Duel" />
+    <string key="custom:endReason" value="Others on the ball" />
     <event>
       <string key="concept:name" value="P. Kimpembe" />
       <string key="org:resource" value="CB" />
@@ -11554,17 +10548,6 @@
       <string key="custom:subevent" value="Touch" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="" />
-      <string key="custom:match" value="Denmark - France, 0 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="K. Mbapp\u00e9" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:30:10.823759" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Lost, Not accurate" />
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
@@ -11705,10 +10688,6 @@
       <string key="custom:match" value="Denmark - France, 0 - 0" />
       <string key="custom:status" value="DRAW" />
     </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Pass" />
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="org:resource" value="CF" />
