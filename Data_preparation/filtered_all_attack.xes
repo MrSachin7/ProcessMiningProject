@@ -182,28 +182,6 @@
       <string key="custom:status" value="LOSING" />
     </event>
     <event>
-      <string key="concept:name" value="B. Matuidi" />
-      <string key="org:resource" value="LM" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:42.349985" />
-      <string key="custom:subevent" value="Smart pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Through, Accurate" />
-      <string key="custom:match" value="France - Argentina, 4 - 3" />
-      <string key="custom:status" value="LOSING" />
-    </event>
-    <event>
-      <string key="concept:name" value="L. Hern\u00e1ndez" />
-      <string key="org:resource" value="LB" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:45.627015" />
-      <string key="custom:subevent" value="Cross" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Left foot, High, Accurate" />
-      <string key="custom:match" value="France - Argentina, 4 - 3" />
-      <string key="custom:status" value="LOSING" />
-    </event>
-    <event>
       <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
       <string key="custom:action" value="Pass" />
@@ -229,21 +207,6 @@
       <string key="custom:match" value="France - Argentina, 4 - 3" />
       <string key="custom:status" value="LOSING" />
     </event>
-    <event>
-      <string key="concept:name" value="B. Pavard" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Shot" />
-      <date key="time:timeStamp" value="2020-01-01T00:11:48.161917" />
-      <string key="custom:subevent" value="Shot" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Goal, Right foot, Opportunity, Position: Goal high left, Accurate" />
-      <string key="custom:match" value="France - Argentina, 4 - 3" />
-      <string key="custom:status" value="LOSING" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Save attempt" />
-    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="org:resource" value="CB" />
@@ -416,7 +379,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Pass" />
-    <string key="custom:endReason" value="Shot" />
+    <string key="custom:endReason" value="Duel" />
     <event>
       <string key="concept:name" value="H. Lloris" />
       <string key="org:resource" value="GKP" />
@@ -505,21 +468,21 @@
       <string key="custom:match" value="France - Argentina, 4 - 3" />
       <string key="custom:status" value="LEADING" />
     </event>
+    <event>
+      <string key="concept:name" value="N. Fekir" />
+      <string key="org:resource" value="AM" />
+      <string key="custom:action" value="Duel" />
+      <date key="time:timeStamp" value="2020-01-01T00:46:04.155813" />
+      <string key="custom:subevent" value="Air duel" />
+      <string key="custom:matchperiod" value="2H" />
+      <string key="custom:tags" value="Won, Accurate" />
+      <string key="custom:match" value="France - Argentina, 4 - 3" />
+      <string key="custom:status" value="LEADING" />
+    </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Pass" />
+    <string key="custom:startReason" value="Free Kick" />
     <string key="custom:endReason" value="Shot" />
-    <event>
-      <string key="concept:name" value="S. Umtiti" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Others on the ball" />
-      <date key="time:timeStamp" value="2020-01-01T00:05:17.821031" />
-      <string key="custom:subevent" value="Clearance" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Interception, Not accurate" />
-      <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
     <event>
       <string key="concept:name" value="S. Umtiti" />
       <string key="org:resource" value="CB" />
@@ -644,7 +607,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Others on the ball" />
+    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
@@ -676,61 +639,6 @@
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Goal, Head/body, Opportunity, Position: Goal center right, Accurate" />
       <string key="custom:match" value="France - Belgium, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="B. Pavard" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Free Kick" />
-      <date key="time:timeStamp" value="2020-01-01T00:12:42.184378" />
-      <string key="custom:subevent" value="Throw in" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Croatia, 4 - 2" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="R. Varane" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:12:43.961485" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Croatia, 4 - 2" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="S. Umtiti" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Others on the ball" />
-      <date key="time:timeStamp" value="2020-01-01T00:12:45.226568" />
-      <string key="custom:subevent" value="Touch" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="" />
-      <string key="custom:match" value="France - Croatia, 4 - 2" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="S. Umtiti" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:12:51.108583" />
-      <string key="custom:subevent" value="High pass" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Through, Accurate" />
-      <string key="custom:match" value="France - Croatia, 4 - 2" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Others on the ball" />
-      <date key="time:timeStamp" value="2020-01-01T00:12:52.750832" />
-      <string key="custom:subevent" value="Touch" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Missed ball" />
-      <string key="custom:match" value="France - Croatia, 4 - 2" />
       <string key="custom:status" value="DRAW" />
     </event>
   </trace>
@@ -1022,19 +930,8 @@
     </event>
   </trace>
   <trace>
-    <string key="custom:startReason" value="Duel" />
+    <string key="custom:startReason" value="Shot" />
     <string key="custom:endReason" value="Shot" />
-    <event>
-      <string key="concept:name" value="P. Pogba" />
-      <string key="org:resource" value="CM" />
-      <string key="custom:action" value="Foul" />
-      <date key="time:timeStamp" value="2020-01-01T00:37:31.097663" />
-      <string key="custom:subevent" value="Foul" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="" />
-      <string key="custom:match" value="France - Croatia, 4 - 2" />
-      <string key="custom:status" value="LEADING" />
-    </event>
     <event>
       <string key="concept:name" value="N. Kant\u00e9" />
       <string key="org:resource" value="CDM" />
@@ -1141,7 +1038,7 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Pass" />
+    <string key="custom:endReason" value="Shot" />
     <event>
       <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="org:resource" value="CF" />
@@ -1151,146 +1048,6 @@
       <string key="custom:matchperiod" value="1H" />
       <string key="custom:tags" value="Goal, Right foot, Opportunity, Position: Goal low center, Accurate" />
       <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="R. Varane" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Free Kick" />
-      <date key="time:timeStamp" value="2020-01-01T00:32:56.809376" />
-      <string key="custom:subevent" value="Free Kick" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="L. Hern\u00e1ndez" />
-      <string key="org:resource" value="LB" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:01.219504" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="P. Pogba" />
-      <string key="org:resource" value="CM" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:02.981703" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Offside" />
-    <string key="custom:endReason" value="Shot" />
-    <event>
-      <string key="concept:name" value="B. Pavard" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:33.882019" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="O. Demb\u00e9l\u00e9" />
-      <string key="org:resource" value="RW" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:36.049840" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="B. Pavard" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:37.971943" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="N. Kant\u00e9" />
-      <string key="org:resource" value="CDM" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:38.504809" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="R. Varane" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:41.364305" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="H. Lloris" />
-      <string key="org:resource" value="GKP" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:33:44.305789" />
-      <string key="custom:subevent" value="Simple pass" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Pass" />
-      <date key="time:timeStamp" value="2020-01-01T00:14:48.784996" />
-      <string key="custom:subevent" value="Head pass" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Key pass, Accurate" />
-      <string key="custom:match" value="Uruguay - France, 0 - 2" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-    <event>
-      <string key="concept:name" value="K. Mbapp\u00e9" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Shot" />
-      <date key="time:timeStamp" value="2020-01-01T00:14:50.383366" />
-      <string key="custom:subevent" value="Shot" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Head/body, Opportunity, Position: Out high center, Not accurate" />
-      <string key="custom:match" value="Uruguay - France, 0 - 2" />
-      <string key="custom:status" value="DRAW" />
-    </event>
-  </trace>
-  <trace>
-    <string key="custom:startReason" value="Duel" />
-    <string key="custom:endReason" value="Shot" />
-    <event>
-      <string key="concept:name" value="O. Giroud" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Foul" />
-      <date key="time:timeStamp" value="2020-01-01T00:15:42.010991" />
-      <string key="custom:subevent" value="Foul" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="" />
-      <string key="custom:match" value="Uruguay - France, 0 - 2" />
       <string key="custom:status" value="DRAW" />
     </event>
     <event>
@@ -1318,10 +1075,10 @@
   </trace>
   <trace>
     <string key="custom:startReason" value="Others on the ball" />
-    <string key="custom:endReason" value="Free Kick" />
+    <string key="custom:endReason" value="Shot" />
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:15:38.453529" />
       <string key="custom:subevent" value="Ground defending duel" />
@@ -1331,8 +1088,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Others on the ball" />
       <date key="time:timeStamp" value="2020-01-01T00:15:40.924987" />
       <string key="custom:subevent" value="Acceleration" />
@@ -1342,8 +1099,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:15:43.411467" />
       <string key="custom:subevent" value="Simple pass" />
@@ -1353,8 +1110,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="C. Tolisso" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="C. Tolisso" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:15:45.178696" />
       <string key="custom:subevent" value="Simple pass" />
@@ -1364,24 +1121,13 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
+      <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Shot" />
       <date key="time:timeStamp" value="2020-01-01T00:15:47.251197" />
       <string key="custom:subevent" value="Shot" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Goal, Counter attack, Left foot, Opportunity, Position: Goal center, Accurate" />
-      <string key="custom:match" value="Uruguay - France, 0 - 2" />
-      <string key="custom:status" value="LEADING" />
-    </event>
-    <event>
-      <string key="concept:name" value="H. Lloris" />
-      <string key="org:resource" value="GKP" />
-      <string key="custom:action" value="Free Kick" />
-      <date key="time:timeStamp" value="2020-01-01T00:38:40.721897" />
-      <string key="custom:subevent" value="Goal kick" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="" />
       <string key="custom:match" value="Uruguay - France, 0 - 2" />
       <string key="custom:status" value="LEADING" />
     </event>
