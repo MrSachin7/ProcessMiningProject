@@ -19168,16 +19168,6 @@
       <string key="custom:match" value="France - Argentina, 4 - 3" />
     </event>
     <event>
-      <string key="concept:name" value="B. Pavard" />
-      <string key="org:resource" value="RB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:23:14.107074" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Dangerous ball lost, Lost, Not accurate" />
-      <string key="custom:match" value="France - Argentina, 4 - 3" />
-    </event>
-    <event>
       <string key="concept:name" value="endcause Duel" />
       <string key="org:resource" value="endcause Duel" />
     </event>
@@ -42284,26 +42274,6 @@
   </trace>
   <trace>
     <event>
-      <string key="concept:name" value="startcause Others on the ball" />
-      <string key="org:resource" value="startcause Others on the ball" />
-    </event>
-    <event>
-      <string key="concept:name" value="R. Varane" />
-      <string key="org:resource" value="CB" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:48:47.456182" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Dangerous ball lost, Lost, Not accurate" />
-      <string key="custom:match" value="France - Croatia, 4 - 2" />
-    </event>
-    <event>
-      <string key="concept:name" value="endcause Duel" />
-      <string key="org:resource" value="endcause Duel" />
-    </event>
-  </trace>
-  <trace>
-    <event>
       <string key="concept:name" value="startcause Pass" />
       <string key="org:resource" value="startcause Pass" />
     </event>
@@ -44268,18 +44238,8 @@
       <string key="custom:match" value="France - Croatia, 4 - 2" />
     </event>
     <event>
-      <string key="concept:name" value="H. Lloris" />
-      <string key="org:resource" value="GKP" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T01:08:08.157139" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="2H" />
-      <string key="custom:tags" value="Dangerous ball lost, Free space left, Lost, Not accurate" />
-      <string key="custom:match" value="France - Croatia, 4 - 2" />
-    </event>
-    <event>
-      <string key="concept:name" value="endcause Duel" />
-      <string key="org:resource" value="endcause Duel" />
+      <string key="concept:name" value="endcause Pass" />
+      <string key="org:resource" value="endcause Pass" />
     </event>
   </trace>
   <trace>
@@ -49130,26 +49090,6 @@
     <event>
       <string key="concept:name" value="endcause Pass" />
       <string key="org:resource" value="endcause Pass" />
-    </event>
-  </trace>
-  <trace>
-    <event>
-      <string key="concept:name" value="startcause Duel" />
-      <string key="org:resource" value="startcause Duel" />
-    </event>
-    <event>
-      <string key="concept:name" value="K. Mbapp\u00e9" />
-      <string key="org:resource" value="CF" />
-      <string key="custom:action" value="Duel" />
-      <date key="time:timeStamp" value="2020-01-01T00:26:05.849263" />
-      <string key="custom:subevent" value="Ground attacking duel" />
-      <string key="custom:matchperiod" value="1H" />
-      <string key="custom:tags" value="Dangerous ball lost, Take on right, Lost, Not accurate" />
-      <string key="custom:match" value="France - Peru, 1 - 0" />
-    </event>
-    <event>
-      <string key="concept:name" value="endcause Duel" />
-      <string key="org:resource" value="endcause Duel" />
     </event>
   </trace>
   <trace>
