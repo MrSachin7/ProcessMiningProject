@@ -6,8 +6,8 @@
     <string key="custom:startReason" value="" />
     <string key="custom:endReason" value="Free Kick" />
     <event>
-      <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
+      <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Free Kick" />
       <date key="time:timeStamp" value="2020-01-01T00:37:58.895744" />
       <string key="custom:subevent" value="Penalty" />
@@ -21,8 +21,8 @@
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="B. Pavard" />
       <string key="org:resource" value="RB" />
+      <string key="concept:name" value="B. Pavard" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:12:44.715880" />
       <string key="custom:subevent" value="Ground defending duel" />
@@ -36,8 +36,8 @@
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="custom:action" value="Free Kick" />
       <date key="time:timeStamp" value="2020-01-01T00:13:12.312467" />
       <string key="custom:subevent" value="Throw in" />
@@ -47,8 +47,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="B. Matuidi" />
       <string key="org:resource" value="LM" />
+      <string key="concept:name" value="B. Matuidi" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:13:12.832567" />
       <string key="custom:subevent" value="Air duel" />
@@ -62,8 +62,8 @@
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="B. Matuidi" />
       <string key="org:resource" value="LM" />
+      <string key="concept:name" value="B. Matuidi" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:13:13.219799" />
       <string key="custom:subevent" value="Air duel" />
@@ -77,8 +77,8 @@
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
+      <string key="concept:name" value="O. Giroud" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:13:14.449821" />
       <string key="custom:subevent" value="Head pass" />
@@ -88,8 +88,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="S. N'Zonzi" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="S. N'Zonzi" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:13:15.328349" />
       <string key="custom:subevent" value="Head pass" />
@@ -99,8 +99,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
+      <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:13:16.502127" />
       <string key="custom:subevent" value="Head pass" />
@@ -110,8 +110,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:13:18.721459" />
       <string key="custom:subevent" value="Smart pass" />
@@ -121,8 +121,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="org:resource" value="CF" />
+      <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:13:26.123353" />
       <string key="custom:subevent" value="Ground attacking duel" />
@@ -136,8 +136,8 @@
     <string key="custom:startReason" value="Others on the ball" />
     <string key="custom:endReason" value="Shot" />
     <event>
-      <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="org:resource" value="CF" />
+      <string key="concept:name" value="K. Mbapp\u00e9" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:13:29.208435" />
       <string key="custom:subevent" value="Simple pass" />
@@ -147,8 +147,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
+      <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:13:31.777585" />
       <string key="custom:subevent" value="Simple pass" />
@@ -158,8 +158,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Shot" />
       <date key="time:timeStamp" value="2020-01-01T00:13:32.528129" />
       <string key="custom:subevent" value="Shot" />
@@ -173,8 +173,8 @@
     <string key="custom:startReason" value="Others on the ball" />
     <string key="custom:endReason" value="Shot" />
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Shot" />
       <date key="time:timeStamp" value="2020-01-01T00:13:36.146998" />
       <string key="custom:subevent" value="Shot" />
@@ -188,8 +188,8 @@
     <string key="custom:startReason" value="Shot" />
     <string key="custom:endReason" value="Others on the ball" />
     <event>
-      <string key="concept:name" value="B. Pavard" />
       <string key="org:resource" value="RB" />
+      <string key="concept:name" value="B. Pavard" />
       <string key="custom:action" value="Others on the ball" />
       <date key="time:timeStamp" value="2020-01-01T00:18:53.880482" />
       <string key="custom:subevent" value="Touch" />
@@ -203,8 +203,8 @@
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="B. Pavard" />
       <string key="org:resource" value="RB" />
+      <string key="concept:name" value="B. Pavard" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:18:55.955919" />
       <string key="custom:subevent" value="Ground defending duel" />
@@ -218,8 +218,8 @@
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
+      <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Others on the ball" />
       <date key="time:timeStamp" value="2020-01-01T00:18:55.985166" />
       <string key="custom:subevent" value="Touch" />
@@ -229,8 +229,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
+      <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:18:57.950745" />
       <string key="custom:subevent" value="Ground defending duel" />
@@ -244,8 +244,8 @@
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Pass" />
     <event>
-      <string key="concept:name" value="B. Pavard" />
       <string key="org:resource" value="RB" />
+      <string key="concept:name" value="B. Pavard" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:00.183566" />
       <string key="custom:subevent" value="High pass" />
@@ -259,8 +259,8 @@
     <string key="custom:startReason" value="Pass" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="O. Giroud" />
       <string key="org:resource" value="CF" />
+      <string key="concept:name" value="O. Giroud" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:19:04.857677" />
       <string key="custom:subevent" value="Air duel" />
@@ -274,8 +274,8 @@
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="B. Matuidi" />
       <string key="org:resource" value="LM" />
+      <string key="concept:name" value="B. Matuidi" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:08.540283" />
       <string key="custom:subevent" value="Simple pass" />
@@ -285,8 +285,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
+      <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:19:10.713949" />
       <string key="custom:subevent" value="Ground attacking duel" />
@@ -300,8 +300,8 @@
     <string key="custom:startReason" value="Duel" />
     <string key="custom:endReason" value="Duel" />
     <event>
-      <string key="concept:name" value="A. Griezmann" />
       <string key="org:resource" value="AM" />
+      <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:12.730536" />
       <string key="custom:subevent" value="Simple pass" />
@@ -311,8 +311,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="S. N'Zonzi" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="S. N'Zonzi" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:14.535955" />
       <string key="custom:subevent" value="Simple pass" />
@@ -322,8 +322,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:16.198798" />
       <string key="custom:subevent" value="Simple pass" />
@@ -333,8 +333,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:20.237752" />
       <string key="custom:subevent" value="Simple pass" />
@@ -344,8 +344,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="B. Matuidi" />
       <string key="org:resource" value="LM" />
+      <string key="concept:name" value="B. Matuidi" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:21.297233" />
       <string key="custom:subevent" value="Simple pass" />
@@ -355,8 +355,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:24.169433" />
       <string key="custom:subevent" value="Simple pass" />
@@ -366,8 +366,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="S. N'Zonzi" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="S. N'Zonzi" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:25.552160" />
       <string key="custom:subevent" value="Simple pass" />
@@ -377,8 +377,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="P. Pogba" />
       <string key="org:resource" value="CM" />
+      <string key="concept:name" value="P. Pogba" />
       <string key="custom:action" value="Pass" />
       <date key="time:timeStamp" value="2020-01-01T00:19:26.751510" />
       <string key="custom:subevent" value="Simple pass" />
@@ -388,8 +388,8 @@
       <string key="custom:status" value="LEADING" />
     </event>
     <event>
-      <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="org:resource" value="LB" />
+      <string key="concept:name" value="L. Hern\u00e1ndez" />
       <string key="custom:action" value="Duel" />
       <date key="time:timeStamp" value="2020-01-01T00:19:28.593984" />
       <string key="custom:subevent" value="Ground attacking duel" />
