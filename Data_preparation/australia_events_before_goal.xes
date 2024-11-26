@@ -9,7 +9,7 @@
       <string key="org:resource" value="AM" />
       <string key="concept:name" value="A. Griezmann" />
       <string key="custom:action" value="Free Kick" />
-      <date key="time:timeStamp" value="2020-01-01T00:12:10.009243" />
+      <date key="time:timestamp" value="2020-01-01T00:12:10.009243" />
       <string key="custom:subevent" value="Penalty" />
       <string key="custom:matchperiod" value="2H" />
       <string key="custom:tags" value="Goal, Left foot, Position: Goal center right, Accurate" />
